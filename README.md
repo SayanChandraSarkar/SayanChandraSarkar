@@ -1,6 +1,6 @@
  Hi there 👋
 
-I am Sayan Sarkar
+**I am Sayan Sarkar**
 
 - 🔭 I’m currently working as a Web Developer.
 - 🌱 My learning includes HTML, CSS, Js, Node,js, React.js, Mysql, Php.
