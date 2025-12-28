@@ -1,6 +1,20 @@
 # 💫 About Me:
-I am a Full-Stack Developer specializing in the MERN stack and Next.js, with hands-on experience building scalable, high-performance web applications.<br><br>Currently, I work at Pragya Sarathi as a Full Stack Developer, where I design and develop end-to-end solutions using MongoDB, Express.js, React.js, Node.js, Next.js, and SQL. Previously, I contributed to multiple production systems at 5TechG Lab LLP, gaining strong exposure to real-world SaaS development and deployment practices.<br><br>I have also worked as a Frontend Developer at Grocered and co-founded Xongbaad, which strengthened my understanding of product thinking, ownership, and startup execution.<br><br>I focus on:<br><br>Clean, maintainable architecture<br><br>Performance optimization and scalability<br><br>Building user-centric, production-ready applications<br><br>I am open to opportunities where I can solve meaningful problems and grow as a software engineer.
+I am a Full-Stack Developer specializing in the MERN stack and Next.js, with hands-on experience building scalable, high-performance web applications 🚀
 
+Currently, I work at Pragya Sarathi as a Full Stack Developer, where I design and develop end-to-end solutions using MongoDB, Express.js, React.js, Node.js, Next.js, and SQL 🛠️
+Previously, I contributed to multiple production-grade SaaS systems at 5TechG Lab LLP, gaining strong exposure to real-world development and deployment practices ☁️
+
+I have also worked as a Frontend Developer at Grocered and co-founded Xongbaad, which strengthened my understanding of product thinking, ownership, and startup execution 💡
+
+🎯 What I focus on:
+
+Clean, maintainable architecture 🧱
+
+Performance optimization and scalability ⚡
+
+Building user-centric, production-ready applications 👥
+
+I am open to opportunities where I can solve meaningful problems and grow as a software engineer 📈
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sayansarkarrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayansarkar002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayansarkar0403@gmail.com) 
